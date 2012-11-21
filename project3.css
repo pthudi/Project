@@ -1,0 +1,187 @@
+body {
+background-color:#FFFFFF;
+margin:0 auto;
+width:1040px;
+margin-top:10px;
+height:auto;
+
+}
+
+header{height:120px;
+border:1px solid black;
+text-align:center;
+font-weight:bold;
+padding:5px 0px 5px 0px;
+}
+
+#wrapper { 
+     width:1040px;
+     min-width:1040px;
+	 height:auto;
+	 background-color:#f2f2eb;
+	 align:center;
+	 font-family:"Times New Roman";
+     box-shadow:0px 10px 25px #A97D5D;
+
+}
+
+ 
+ 
+nav>article{height:30px;
+background-color:#A97D5D;
+border:1px solid black;
+padding-bottom:5px;
+}
+
+
+#leftcolumn ul{
+ list-style-type: none;
+ margin: 15px 0;
+ border: 0;
+ 
+  }
+
+ #leftcolumn li {
+	text-align: left;
+	
+	width:200px;
+	margin: 0;
+	padding: 0;
+	font-size: 75%;
+	font-weight: bold;
+	font-family: Georgia, Times, Serif;
+	color: black;
+	
+	}
+    
+	
+	
+#leftcolumn	li a {
+	display: block;
+	padding: 2px 0 0 0.5em;
+	text-decoration: none;
+	width:170px;
+	color:#2f2b2b;
+	background:#f2f2eb;
+	height:20px;
+}
+	
+#leftcolumn	li a:hover {
+	font-weight: bold;
+	background: #343131;
+	color:white;
+	text-decoration: none;
+	}
+	
+#leftcolumn { float:left;
+	       width:220px;
+		   font-size:medium;
+		   height:820px;
+		   background-color:#f2f2eb;
+		   box-shadow:0px 0px 5px  #A97D5D;
+           margin-top:20px;
+		  } 
+
+
+#leftcolumn h3{text-align:left;
+background-color:#A97D5D;
+border-radius: 15px;
+border:1px solid black;
+padding-left:5px;
+}	 
+
+#rightcolumn { margin-left:220px;
+margin-top:20px;
+height:auto;
+padding: 0px 10px 10px 10px;
+font-family: "Whitney SSm A","Whitney SSm B",Helvetica,Arial,sans-serif;
+font-size:100%;
+text-align:justify;
+}
+
+#rightcolumn section{
+}
+
+#rightcolumn section article{
+  padding: 10px 10px 10px 10px;
+  box-shadow: 0px 0px 5px #A97D5D;
+  margin:0px 0px 10px;
+   }
+
+
+#rightcolumn section a{
+color:#996600;
+font-weight:bold;
+text-decoration:none;
+}
+
+#rightcolumn section article h1{
+background-color:#A97D5D;}
+ 
+#rightcolumn h3{
+border-bottom:1px solid #A97D5D;
+}
+
+#rightcolumn section article dl dt{
+font-weight:bold;
+}
+
+#rightcolumn section article dd{
+padding-bottom:5px;}
+
+   menu ul {
+     list-style-type: none;
+     margin: 15px 0;
+     border: 0;}
+
+ 
+   menu li {
+	float:left;
+	text-align: center;
+	margin-left:15px;
+	width:150px;
+	margin: 0;
+	padding: 0;
+	font-size:large;
+	font-weight: bold;
+	font-family: Georgia, Times, Serif;
+	color: black;
+	}
+
+   menu li a {
+	
+	display: block;
+	padding: 0;
+	text-decoration: none;
+	width:150px;
+	color:#2f2b2b;
+	
+    }
+	
+
+
+   menu li a:hover {
+	font-weight: bold;
+	background: #343131;
+	color:white;
+	text-decoration: none;
+	}
+	
+
+
+
+
+#footer {
+        height:100px;
+        text-align:center;		
+        font-size:small; 
+		background-color:#f2f2eb;
+		color:black;
+        border:1px solid black;
+}	
+
+
+
+
+
+
